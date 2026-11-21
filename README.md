@@ -2,7 +2,9 @@
 
 **Software Developer | Full-Stack & Business Applications**
 
-I'm a software developer with 3+ years of experience building and improving business applications, primarily working with .NET and SQL Server.
+**English |  French**
+
+I'm a French software developer with 3+ years of experience building and improving business applications, primarily working with .NET and SQL Server.
 
 My work goes beyond writing code. I develop new features, work with databases, solve technical issues and collaborate directly with users to turn business needs into practical solutions.
 
