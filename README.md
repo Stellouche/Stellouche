@@ -17,7 +17,7 @@ I enjoy exploring different technologies, taking on new challenges and building 
 | **Databases** | SQL Server, T-SQL, MySQL |
 | **Tools** | Git, GitHub, GitLab, Docker, Visual Studio, VS Code, SSMS, Metabase, Figma |
 | **Other** | REST APIs, SQL Optimization, Automation, OOP |
-
+And more ...
 ### What I Do
 
 - Business applications and ERP development
